@@ -1,1 +1,1 @@
-ptint('HelloKitty!')
+print('HelloKitty!')
